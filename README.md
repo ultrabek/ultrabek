@@ -11,6 +11,7 @@
 </div>
 
 ###
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ultrabek&label=Profile%20views&color=0e75b6&style=flat" alt="ultrabek" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ultrabek" alt="ultrabek" /></a> </p>
@@ -33,3 +34,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ultrabek&show_icons=true&locale=en" alt="ultrabek" /></p>
 
+
+
+<div align="center">
+  <img height="200" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*IaMiF7wY0yGjZ2SpfQUoNw.jpeg"  />
+</div>
+
+###
