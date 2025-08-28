@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Muhammaddiyor</h1>
 <h3 align="center">I'm backend developer💻</h3>
+<div align="center">
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTk5ODRnZ3dpeHk1bXU1amV4bzY3MXVwcWNyejQwdnFtejZrbGpjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif"  />
+</div>
 
+###
+
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTdqemlmc2ppZTRiMTFlam10ZjE2ajVsaHVxNGR6aXRiNHJjZGRvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L00auhhVx68CI/giphy.gif"  />
+</div>
+
+###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ultrabek&label=Profile%20views&color=0e75b6&style=flat" alt="ultrabek" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ultrabek" alt="ultrabek" /></a> </p>
